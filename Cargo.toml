@@ -1,0 +1,8 @@
+[package]
+name = "rustbin"
+version = "0.1.0"
+edition = "2021"
+description = "Deploys binary from target/release to /usr/local/bin. usage: rustbin <binary_name>"
+author = "Nestor Wheelock"
+license = "GNU GPLv3"
+[dependencies]
